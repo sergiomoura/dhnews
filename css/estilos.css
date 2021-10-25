@@ -2,14 +2,18 @@ body{
     background-color: brown;
 }
 
+header {
+    color: brown;
+    font-size: 44px;
+}
+
 main {
     background-color: rgba(245, 227, 224);
     /* Red Green Blue Alpha*/
-    width: 80%;
-    margin: 50px 10% 50px 10%;
-    padding: 50px;;
+    width: 960px;
+    margin: 50px auto 50px auto;
+    padding: 50px;
     border-radius: 30px;
-    
 }
 
 img{
