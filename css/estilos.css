@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+}
+
+main {
+    background-color: rgba(245, 227, 224);
+    /* Red Green Blue Alpha*/
+    width: 80%;
+    margin: 50px 10% 50px 10%;
+    padding: 50px;;
+    border-radius: 30px;
+    
+}
+
+img{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+    display: block;
+    position: relative;
+
+}
