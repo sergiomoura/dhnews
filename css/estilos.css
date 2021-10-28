@@ -8,7 +8,7 @@ header {
 }
 
 main {
-    background-color: rgba(245, 227, 224);
+    background-color: #f5e3e0;
     /* Red Green Blue Alpha*/
     width: 960px;
     margin: 50px auto 50px auto;
@@ -16,11 +16,26 @@ main {
     border-radius: 30px;
 }
 
-img{
+.destaque {
     width: 100%;
     max-width: 800px;
     margin: 0 auto 0 auto;
     display: block;
     position: relative;
-
 }
+
+footer img {
+    width: 40px;
+    margin: 0 10px;
+}
+
+footer {
+    width: 960px;
+    text-align:center;
+    margin: 0 auto 50px auto;
+}
+
+
+
+
+
